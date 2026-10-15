@@ -1,0 +1,77 @@
+
+# PROYECTO-APRENDIZAJE
+
+## Descripción
+
+Proyecto colaborativo orientado al diseño, desarrollo y prueba de un prototipo de software web que integre frontend, backend e inteligencia artificial.
+
+El proyecto busca aplicar buenas prácticas de ingeniería de software durante todo el ciclo de desarrollo, desde la identificación de necesidades y definición de requerimientos hasta la implementación, validación y documentación de la solución.
+
+## Objetivo general
+
+Desarrollar una demo web funcional que permita aplicar conocimientos de desarrollo de software, diseño de sistemas, gestión de datos, pruebas e integración de servicios de inteligencia artificial.
+
+## Objetivos específicos
+
+- Identificar y documentar los requerimientos funcionales y no funcionales.
+- Definir historias de usuario y criterios de aceptación.
+- Diseñar la arquitectura y el prototipo de la aplicación.
+- Implementar el frontend y el backend.
+- Desarrollar una API para la comunicación entre componentes.
+- Evaluar la integración de inteligencia artificial.
+- Diseñar y ejecutar pruebas de software.
+- Documentar los resultados y las mejoras.
+- Gestionar el código mediante Git y GitHub.
+
+## Alcance
+
+El trabajo se desarrollará por etapas:
+
+1. Análisis y definición del problema.
+2. Especificación de requerimientos.
+3. Diseño del prototipo y arquitectura.
+4. Desarrollo de la aplicación.
+5. Integración de la base de datos y la inteligencia artificial.
+6. Pruebas funcionales y técnicas.
+7. Documentación y presentación de la demo.
+
+Las funcionalidades específicas se definirán durante la etapa de análisis.
+
+## Tecnologías
+
+- Frontend: por definir.
+- Backend: por definir.
+- Base de datos: por definir.
+- Inteligencia artificial: por definir.
+- Pruebas: según las tecnologías seleccionadas.
+- Control de versiones: Git y GitHub.
+
+## Equipo de trabajo
+
+- Integrante 1: María Daniela Solís Prado (@marid435).
+- Integrante 2: pendiente de definir.
+
+## Metodología de trabajo
+
+Se utilizarán Git y GitHub para el control de versiones y la colaboración. Las tareas se organizarán mediante Issues y los cambios podrán revisarse mediante Pull Requests antes de integrarse en la rama principal.
+
+## Calidad y pruebas
+
+Se definirán casos de prueba para verificar el cumplimiento de los requerimientos, la validación de datos, el comportamiento del backend y la correcta interacción entre los componentes.
+
+Los resultados se documentarán durante el desarrollo.
+
+## Seguridad
+
+- Proteger las credenciales y las claves de servicios externos.
+- Utilizar variables de entorno para la configuración sensible.
+- Validar los datos recibidos por el sistema.
+- Gestionar los errores de forma controlada.
+
+## Estado del proyecto
+
+En planificación y definición de requerimientos.
+
+## Licencia
+
+por definir 
